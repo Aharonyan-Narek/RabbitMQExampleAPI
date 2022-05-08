@@ -1,2 +1,2 @@
 # RabbitMQExampleAPI
-simple RabbitMQ API with console subscriber
+simple RabbitMQ API as a publisher with console subscriber
