@@ -1,2 +1,2 @@
 # RabbitMQExampleAPI
-simple RabbitMQ API as a publisher with console subscriber using MassTransit
+simple RabbitMQ API as a publisher with console subscriber
